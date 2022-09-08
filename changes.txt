@@ -1,0 +1,15 @@
+*Se aplico scss al proyecto con bootstrap y se reemplazaron las librerias cdn con locales.
+
+*Se corrigio el alto de las tarjetas de bootstrap en index, para que todas sean uniformes.
+
+*Se cambiaron los titulos, por otros mas descriptivos, de los archivos html: 	index, mujeres, paginaformulario, potrerillos, uspallata y vallecitos.
+
+*Se agregaron 2 <meta> nuevos, a cada html; "description" y "keywords".
+
+*Se reemplazaron los archivos de imagenes por otras de tamaño reducido, se hicieron desde un downsizer online.
+
+*Se hizo uso de la utilidad de SASS "maps".
+
+*Se trato de aplicar @extend pero dio por resultado que se rompan los atributos asignados a las cards, de background y margin bottom y top.
+
+*Carpeta node_modules borrada para posibilitar la subida a github y la plataforma.
