@@ -1,0 +1,1 @@
+se cambio la direccion de las rutas a las imagenes, que estaban con /imagenes/
